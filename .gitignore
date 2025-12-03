@@ -50,3 +50,4 @@ credentials.json
 *.db
 *.sqlite
 *.sqlite3
+gmail_token.pickle
